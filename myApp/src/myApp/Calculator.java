@@ -2,7 +2,7 @@ package myApp;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class Calculator {//계산기
 
 	double plus(double x , double y) {
 		return x + y;
